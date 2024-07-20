@@ -2,12 +2,9 @@ name: Random Commit
 
 on:
   schedule:
-    - cron: "10 18 * * *"
+    - cron: '10 0 * * *'  # 6:10 PM CST (12:10 AM UTC the next day)
     # Template: 
     # Time Zone: UTC (+5 hours)
-    # minute hour day-of-month month day-of-week
-    # 28 11 * * * - every day at 11:28
-    # Insert "*" for any value
 
 jobs:
   commit:
