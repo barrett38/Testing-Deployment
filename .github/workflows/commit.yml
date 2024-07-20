@@ -2,7 +2,7 @@ name: Random Commit
 
 on:
   schedule:
-    - cron: '10 0 * * *'  # 6:10 PM CST (12:10 AM UTC the next day)
+    - cron: '20 0 * * *'  # 6:20 PM CST (12:10 AM UTC the next day)
     # Template: 
     # Time Zone: UTC (+5 hours)
 
