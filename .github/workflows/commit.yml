@@ -2,7 +2,7 @@ name: Random Commit
 
 on:
   schedule:
-    - cron: "05 23 * * *"
+    - cron: "10 18 * * *"
     # Template: 
     # Time Zone: UTC (+5 hours)
     # minute hour day-of-month month day-of-week
