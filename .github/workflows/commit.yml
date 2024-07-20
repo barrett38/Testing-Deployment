@@ -2,8 +2,9 @@ name: Random Commit
 
 on:
   schedule:
-    - cron: "00 18 * * *"
+    - cron: "05 23 * * *"
     # Template: 
+    # Time Zone: UTC (+5 hours)
     # minute hour day-of-month month day-of-week
     # 28 11 * * * - every day at 11:28
     # Insert "*" for any value
