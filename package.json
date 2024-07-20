@@ -9,4 +9,12 @@
   "keywords": [],
   "author": "",
   "license": "ISC"
+},
+{
+  "name": "random-commit",
+  "version": "1.0.0",
+  "main": "commit.js",
+  "dependencies": {
+  }
 }
+
